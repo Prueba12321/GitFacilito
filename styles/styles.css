@@ -149,7 +149,7 @@ h1,h2,h3,h4,h5,h6{
 .btn:hover{
     transform: scale(1.2);
     letter-spacing: 5px;
-    background-color: #D74932;
+    background-color: #000000;
     color: white;
 }
 .fa:hover{
